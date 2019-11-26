@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Imagine Dragons 🎤 Discography 🎼</string>
+    <string name="intro">After releasing their 2012 full-length debut Night Visions (featuring the Grammy Award-winning single “Radioactive”), Imagine Dragons spent nearly two years bringing their passionately inventive brand of alt-rock to arenas around the world. Here are the four albums released so far by this magnificent pop rock band:</string>
+    <string name="Dan">DAN REYNOLDS\nHometown: Las Vegas\n🎙Singer</string>
+    <string name="Wayne">WAYNE SERMON\nHometown: American Fork\n🎻Guitar</string>
+    <string name="Daniel">DANIEL PLATZMAN\nHometown: Atlanta\n🥁Percussion</string>
+    <string name="Ben">BEN MCKEE\nHometown: Forestville\n🎸Bass</string>
+    <string name="Album1">Night Visions</string>
+    <string name="Album2">Smoke + Mirrors</string>
+    <string name="Album3">Evolve</string>
+    <string name="Album4">Origins</string>
+    <string name="release1">2012</string>
+    <string name="release2">2015</string>
+    <string name="release3">2017</string>
+    <string name="release4">2018</string>
+    <string name="currently_playing">Now playing</string>
+    <string name="artists">Imagine Dragons\'s</string>
+    <string name="playing">Discography</string>
+    <string name="home">🏠</string>
+    <string name="music">why music matters</string>
+    <string name="track_list">𝄙</string>
+
+</resources>

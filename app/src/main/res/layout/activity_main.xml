@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/art_blur"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/intro"
+        style="@style/intro"
+        android:gravity="center_horizontal"
+        android:text="@string/intro" />
+
+    <GridView
+        android:id="@+id/albumsGrid"
+        style="@style/grid" />
+
+    <TextView
+        android:id="@+id/reynolds"
+        style="@style/artists"
+        android:drawableTop="@drawable/microphone"
+        android:text="@string/Dan" />
+
+    <TextView
+        android:id="@+id/sermon"
+        style="@style/artists"
+        android:layout_toEndOf="@+id/reynolds"
+        android:drawableTop="@drawable/guitar"
+        android:text="@string/Wayne" />
+
+    <TextView
+        android:id="@+id/platzman"
+        style="@style/artists"
+        android:layout_toEndOf="@+id/sermon"
+        android:drawableTop="@drawable/percussion"
+        android:text="@string/Daniel" />
+
+    <TextView
+        style="@style/artists"
+        android:layout_toEndOf="@id/platzman"
+        android:drawableTop="@drawable/bass"
+        android:text="@string/Ben" />
+
+
+</RelativeLayout>
