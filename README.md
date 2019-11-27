@@ -1,5 +1,4 @@
 # Discography
-App built to play music from the user’s library of music.
 This project is designed to layout the flow for the structure of a Music Player App. Note that this app actually doesn't play music and it's made just for educational purposes as it contains the code of my sixth project for Android Basics NanoDegree at Udacity.
 
 <img src = "discography1.png">  <img src = "discography2.png">
